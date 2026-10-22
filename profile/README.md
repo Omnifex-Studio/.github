@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="./assets/omnifex-icon.svg" width="200" height="200" alt="Omnifex Studio — animated gold monogram" />
+</p>
 
-# Omnifex Studio
-Welcome to our organization profile. We build, maintain, and publish repositories covering a wide variety of software applications, utilities, and public projects.
+<h1 align="center">Omnifex Studio</h1>
 
-## About Us
+<p align="center"><strong>Ideas into code. Code for everyone.</strong></p>
 
-We do not limit our development to a single language, framework, or domain. This organization serves as an open hub for any software project our contributors choose to build. From command-line tools to full-stack applications, our goal is simply to write code and share it with the public.
+We build and share software—from command-line tools and utilities to full-stack applications. Our work spans languages, frameworks, and domains, giving contributors room to explore and create.
+
+**Get involved:** Explore our repositories, share an idea, or contribute through issues and pull requests.
+
+<p align="center">
+  <a href="https://github.com/orgs/Omnifex-Studio/repositories">Explore our projects</a>
+</p>
