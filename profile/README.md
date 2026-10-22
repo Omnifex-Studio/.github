@@ -1,5 +1,5 @@
 
-## Omnifex Studio
+# Omnifex Studio
 Welcome to our organization profile. We build, maintain, and publish repositories covering a wide variety of software applications, utilities, and public projects.
 
 ## About Us
