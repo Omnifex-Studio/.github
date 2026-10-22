@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="120" viewBox="0 0 1080 120" role="img" aria-labelledby="title">
+    <title id="title">Browse our repositories</title>
+    <defs>
+      <linearGradient id="surface" x2=".75" y2="1"><stop stop-color="#2c2317"/><stop offset=".5" stop-color="#171512"/><stop offset="1" stop-color="#292014"/></linearGradient>
+      <linearGradient id="border" x2="1" y2="1"><stop stop-color="#ac8753"/><stop offset=".5" stop-color="#654928"/><stop offset="1" stop-color="#f0ba69"/></linearGradient>
+      <linearGradient id="rail"><stop stop-color="#80603a" stop-opacity="0"/><stop offset="1" stop-color="#80603a"/></linearGradient>
+    </defs>
+    <path d="M24 60H288L306 42M1056 60H792L774 78" fill="none" stroke="url(#rail)"/><path d="M70 51H274M1010 69H806" stroke="#32291d"/><path d="M272 60H289M808 60H791" stroke="#e8ad5a" stroke-width="2"/>
+    <path d="M332 22H748L764 38V80L748 96H332L316 80V38Z" fill="url(#surface)" stroke="url(#border)" stroke-width="1.5"/>
+    <path d="M338 27H742" stroke="#f2cf95" stroke-opacity=".32"/>
+    <g fill="none" stroke="#eabe7a" stroke-width="1.7" stroke-linejoin="round" transform="translate(347 47)"><rect width="20" height="24" rx="3"/><path d="M6 0V24M10 7H15M10 12H15M10 17H13"/></g>
+    <text x="539" y="68" fill="#fff1d6" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" text-anchor="middle">Browse our repositories</text>
+    <path d="M717 52L724 59L717 66M706 59H723" stroke="#f6bf6c" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
